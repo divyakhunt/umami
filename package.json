@@ -48,7 +48,7 @@
     "test": "jest",
     "cypress-open": "cypress open cypress run",
     "cypress-run": "cypress run cypress run",
-    "postinstall": "npm install rollup",
+    "postinstall": "npm install rollup"
   },
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": [
