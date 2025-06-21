@@ -136,7 +136,8 @@
     "rollup-plugin-node-externals": "^6.1.1",
     "rollup-plugin-postcss": "^4.0.2",
     "@svgr/rollup": "^8.1.0",
-    "@rollup/plugin-terser": "^0.4.4"
+    "@rollup/plugin-terser": "^0.4.4",
+    "tar": "^6.1.2"
   },
   "devDependencies": {
     "@formatjs/cli": "^4.2.29",
@@ -176,7 +177,6 @@
     "stylelint-config-css-modules": "^4.4.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-recommended": "^14.0.0",
-    "tar": "^6.1.2",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.1",
     "typescript": "^5.5.3"
